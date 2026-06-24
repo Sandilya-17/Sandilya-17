@@ -1,351 +1,120 @@
 # Hi 👋, I'm P. V. Sai Sandilya
 
-<div align="center">
+### AI Engineer | Machine Learning Developer | Computer Vision Enthusiast
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=P.%20V.%20Sai%20Sandilya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-### 🚀 AI Engineer • ML Developer • Computer Vision Enthusiast • AWS Certified Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Computer+Vision+Researcher;LLM+and+RAG+Developer;AWS+Certified+Developer;Always+Learning+Always+Building" />
-
-<img src="https://komarev.com/ghpvc/?username=Sandilya-17&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-<table>
-<tr>
-
-<td width="55%">
-
-## 👋 Hello!
-
-🎓 B.Tech CSE (AI for Visual Intelligence)
-
-🏫 KL University, Guntur
-
-📅 Expected Graduation: May 2027
-
-📈 CGPA: 8.84 / 10.0
-
-🤖 Passionate about:
-
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Generative AI
-* LLM Applications
-* RAG Systems
-
-💻 Building AI-powered applications solving real-world problems
-
+🎓 B.Tech CSE (AI for Visual Intelligence) @ KL University
+📍 Guntur, India
 ☁️ AWS Certified Developer Associate
+🤖 Automation Anywhere Advanced RPA Professional
 
-🤖 Automation Anywhere Certified Advanced RPA Professional
+---
 
-🌱 Currently Learning:
+## 🚀 About Me
 
-* Advanced Deep Learning
+* Passionate about Artificial Intelligence and Machine Learning
+* Interested in Computer Vision, LLMs, and RAG Systems
+* Building intelligent applications with Python and Java
+* Open to internships, research, and AI collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### AI / ML
+
+TensorFlow • Scikit-Learn • Pandas • NumPy • OpenCV • NLP • LLMs • RAG
+
+### Cloud & Tools
+
+AWS • Azure • Oracle OCI • Git • GitHub • Postman • Flask • Jupyter
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 IntelliHire – AI Resume Screening Platform
+
+* Resume-to-Job matching using NLP
+* TF-IDF and Skill Matching
+* Candidate Ranking & Skill Gap Analysis
+* Flask REST API
+
+**Tech:** Python, Flask, Scikit-Learn, NLP
+
+---
+
+### 🧠 AI Response Quality Evaluator
+
+* ML-based response quality prediction
+* Confidence scoring system
+* Multiple model benchmarking
+
+**Tech:** Python, Flask, Scikit-Learn
+
+---
+
+### 🔒 URL Safety Checker
+
+* Detects phishing and malicious URLs
+* Real-time URL classification
+* Security-focused ML pipeline
+
+**Tech:** Python, Flask, Scikit-Learn
+
+---
+
+## 💼 Experience
+
+### IBM AI/ML Virtual Internship
+
+* Enterprise AI workflows
+* Machine Learning development practices
+
+### Google AICTE AI/ML Internship
+
 * Generative AI
-* Multi-Agent Systems
-* Cloud-Native AI Applications
-* AI Deployment & MLOps
-
-🎯 Career Goals:
-
-* AI Engineer
-* Machine Learning Engineer
-* Software Engineer
-* Cloud Engineer
-
-🤝 Open To:
-
-* Internships
-* Research Collaborations
-* Open Source Contributions
-* AI/ML Projects
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-</table>
+* Google Cloud technologies
 
 ---
 
-# ⚡ Tech Focus
+## 🔬 Research
 
-<div align="center">
+**Hybrid ML and VQE-Based Error Mitigation for Grover's Search on NISQ Devices**
 
-| 🧠 AI & ML       | ☁️ Cloud         | 💻 Development       |
-| ---------------- | ---------------- | -------------------- |
-| Machine Learning | AWS              | Flask                |
-| Deep Learning    | Azure            | Java                 |
-| Computer Vision  | Oracle OCI       | Python               |
-| NLP              | Cloud Deployment | REST APIs            |
-| LLMs             | MLOps            | Full Stack           |
-| RAG Systems      | Serverless       | Software Engineering |
-
-</div>
+Researching quantum error mitigation using Machine Learning and Variational Quantum Eigensolvers.
 
 ---
 
-# 📊 Skill Levels
+## 🏆 Certifications
 
-```text
-Artificial Intelligence    ███████████████░ 92%
-Machine Learning           ██████████████░░ 90%
-Computer Vision            █████████████░░░ 85%
-Generative AI              ████████████░░░░ 80%
-Cloud Computing            ████████████░░░░ 80%
-Software Development       █████████████░░░ 85%
-Problem Solving            ████████████░░░░ 82%
-```
+* AWS Certified Developer Associate
+* Automation Anywhere Certified Advanced RPA Professional
+* IBM AI/ML Internship
+* Google AICTE AI/ML Internship
 
 ---
 
-# 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-## Languages
+![Stats](https://github-readme-stats.vercel.app/api?username=Sandilya-17\&show_icons=true\&theme=tokyonight)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css" />
-</p>
-
-## AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-Machine Learning • Deep Learning • NLP • Computer Vision • LLMs • RAG • Prompt Engineering • Scikit-Learn • Pandas • NumPy
-
-## Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-AWS • Oracle OCI • Azure
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-Flask • REST APIs
-
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-Automation Anywhere A360 • Jupyter Notebook
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandilya-17\&layout=compact\&theme=tokyonight)
 
 ---
 
-# 🚀 Featured Projects
+## 🌐 Connect With Me
 
-## 🤖 IntelliHire – AI Resume Screening Platform
+📧 [2300031691@kluniversity.in](mailto:2300031691@kluniversity.in)
 
-### Description
-
-An intelligent recruitment platform that automatically evaluates resumes against job descriptions using NLP and Machine Learning.
-
-### Features
-
-✅ TF-IDF Resume Matching
-
-✅ Skill Taxonomy Matching
-
-✅ Candidate Ranking
-
-✅ Skill Gap Analysis
-
-✅ PDF/DOCX/TXT Parsing
-
-✅ Analytics Dashboard
-
-### Technologies
-
-Python • Flask • Scikit-Learn • NLP • REST API
-
-### Achievements
-
-🏆 85%+ Matching Accuracy
-
-🏆 Supports 50+ Concurrent Requests
-
-🏆 Automated Candidate Shortlisting
+💻 GitHub: https://github.com/Sandilya-17
 
 ---
 
-## 🧠 AI Response Quality Evaluator
-
-### Description
-
-Machine Learning system that evaluates and predicts AI-generated response quality using multiple benchmark models.
-
-### Features
-
-✅ Confidence Scoring
-
-✅ Real-Time Evaluation
-
-✅ Model Benchmarking
-
-✅ Performance Analytics
-
-### Technologies
-
-Python • Flask • Scikit-Learn
-
-### Achievements
-
-🏆 80.25% Accuracy
-
-🏆 10,000+ Dataset Samples
-
-🏆 5-Fold Cross Validation
-
----
-
-## 🔒 URL Safety Checker
-
-### Description
-
-AI-powered phishing and malicious URL detection system for cybersecurity applications.
-
-### Features
-
-✅ Phishing Detection
-
-✅ URL Classification
-
-✅ Enterprise Integration
-
-✅ Threat Intelligence
-
-### Technologies
-
-Python • Flask • Scikit-Learn
-
-### Achievements
-
-🏆 87% Accuracy
-
-🏆 11,000+ URLs Analyzed
-
-🏆 16 Engineered Features
-
----
-
-# 💼 Experience
-
-## AI/ML Intern – IBM Virtual Internship
-
-* Enterprise AI Workflow Exposure
-* Applied Machine Learning
-* Industry-Level Development Practices
-* Real-World AI Problem Solving
-
----
-
-## AI/ML Intern – Google AICTE Virtual Internship
-
-* Generative AI Fundamentals
-* Google Cloud Technologies
-* Machine Learning Applications
-* Cloud-Based AI Development
-
----
-
-# 🔬 Research
-
-## Hybrid ML and VQE-Based Error Mitigation for Grover's Search on NISQ Devices
-
-Combining Machine Learning with Variational Quantum Eigensolver (VQE) techniques to reduce quantum noise and improve Grover's Search performance on NISQ hardware.
-
-### Research Areas
-
-* Quantum Computing
-* Machine Learning
-* Error Mitigation
-* Variational Algorithms
-* NISQ Systems
-
----
-
-# 🏆 Certifications
-
-🏅 AWS Certified Developer – Associate
-
-🏅 Automation Anywhere Certified Advanced RPA Professional
-
-🏅 IBM AI/ML Virtual Internship
-
-🏅 Google AICTE AI/ML Internship
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandilya-17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Sandilya-17&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandilya-17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandilya-17&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:2300031691@kluniversity.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sandilya-17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💡 Quote
-
-> "The best way to predict the future is to build it."
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
+*"Building AI solutions that solve real-world problems."*
